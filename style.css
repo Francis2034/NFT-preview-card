@@ -40,10 +40,6 @@ body {
 }
 .hover-image:hover::after { opacity: 1; }
 
-.hover-image img {
-    width: 100%;
-    display: block;
-}
 .main-container {
     display: flex;
     max-width: 20rem;
